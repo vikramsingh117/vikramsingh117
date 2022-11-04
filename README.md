@@ -4,3 +4,4 @@
 
 
 ![snake gif](https://github.com/vikramsingh117/vikramsingh117/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
