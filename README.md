@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Cozycabs
+I’m currently `ricing my unix for 50th time`
 
 
 ## 🌐 Socials:
